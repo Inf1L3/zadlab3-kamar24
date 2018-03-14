@@ -7,7 +7,7 @@ package pl.edu.ur.POLab3;
 
 /**
  *
- * @author Asia
+ * @author Lukasz
  */
 public class Main {
 
